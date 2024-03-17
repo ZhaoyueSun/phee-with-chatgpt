@@ -1,0 +1,3 @@
+[
+    {"role": "user", "content": "Extract adverse events and potential therapeutic events in the sentence, as well as the information about the subject (the patient), the treatment and the effect of the treatment involved in the event. Return the output in json format as this: [{\"event_type\": event type, \"subject\": span of subject information, \"treatment\": span of treatment information, \"effect\": span of effect information}]. Event type: adverse event, potential therapeutic event. Sentence: <sentence> Output:"}
+]

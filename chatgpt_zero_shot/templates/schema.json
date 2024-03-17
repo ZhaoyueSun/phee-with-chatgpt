@@ -1,0 +1,3 @@
+[
+    {"role": "user", "content": "Extract event information from the following sentence and return events in json format as this: [{\"event_type\": event type, \"arguments\":[{\"argument_type\": argument type, \"argument_span\":argument extraction}]}]. Event type: adverse event, potential therapeutic event. Argument type: subject, age, gender, race, population, subject_disorder, treatment, drug, dosage, route, duration, frequency, time_elapsed, indication, combination_drug, effect. Sentence: <sentence> Output:"}
+]

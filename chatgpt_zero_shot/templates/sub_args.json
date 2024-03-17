@@ -1,0 +1,15 @@
+{
+    "age": "What's the age of the subject?",
+    "gender": "What's the gender of the subject?",
+    "race": "What's the race or the nationality of the subject?",
+    "population": "How many subjects are involved in the event?",
+    "subject_disorder": "What disorders do the subjects suffer from?",
+    "drug": "What drugs are administered to the subject?",
+    "dosage": "What amount of the drug is administered to the subject?",
+    "route": "What route is the drug given to the subject?",
+    "duration": "How long have the subject been taking the drug until the event occurred?",
+    "frequency": "How frequently does the subject take the drug?",
+    "time_elapsed": "How long has elapsed since the patient started or ended dosing until the event occurred?",
+    "indication": "What's the target disease of the treatment?",
+    "combination_drug": "What drugs are used in combination in the event?"
+}

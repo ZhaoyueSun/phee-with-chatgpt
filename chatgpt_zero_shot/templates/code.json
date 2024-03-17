@@ -1,0 +1,3 @@
+[
+    {"role": "user", "content": "Argument = {\n\"argument_type\": str, # options: [subject, age, gender,race, population, subject_disorder, treatment, drug, dosage, route, duration, frequency, time_elapsed, indication, combination_drug, effect]\n\"argument_span\": str,\n}\nEvent ={\n\"event_type\": str, # options: [adverse_event, potential_therapeutic_event]\n\"arguments\": List[Argument],}\nevents: List[Event] = extract events in the sentence: <sentence>\nprint(json.dumps(events))"}
+]

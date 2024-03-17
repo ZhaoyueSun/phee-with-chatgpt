@@ -1,0 +1,3 @@
+["adverse event", "potential therapeutic event"]
+["subject", "age", "gender", "race", "population", "subject disorder", "treatment", "drug", "dosage", "route", "duration", "frequency", "time elapsed", "combination drug", "treatment disorder",  "effect"]
+{"adverse event": ["subject", "age", "gender", "race", "population", "subject disorder", "treatment", "drug", "dosage", "route", "duration", "frequency", "time elapsed", "combination drug", "treatment disorder",  "effect"], "potential therapeutic event": ["subject", "age", "gender", "race", "population", "subject disorder", "treatment", "drug", "dosage", "route", "duration", "frequency", "time elapsed", "combination drug", "treatment disorder",  "effect"]}

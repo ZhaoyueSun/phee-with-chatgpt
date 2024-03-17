@@ -1,0 +1,7 @@
+illegal_case: 30
+wrong_event_type: 25
+wrong_arg_type: 7
+unfound_trigger: 7
+unfound_arg: 744
+filter_cases: 620
+accessed cases:2249
